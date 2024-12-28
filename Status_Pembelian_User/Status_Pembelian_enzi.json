@@ -1,0 +1,35 @@
+[
+   {
+      "pembeli": "enzi",
+      "item": [
+         {
+            "Nomor Resi": "NGGYL69MD0YZC4",
+            "Waktu Pembelian": "2024-12-09 18:19:24",
+            "Alamat": "Tapos",
+            "Jenis Pengiriman": "J&T Express",
+            "produk": "Celana",
+            "jenis produk": "Jeans",
+            "jumlah": 1,
+            "harga": 100000,
+            "total": 100000,
+            "Jenis Pembayaran": "COD",
+            "Status Pembayaran": "Belum Lunas",
+            "Status Pengiriman": "Produk sedang dalam perjalanan"
+         },
+         {
+            "Nomor Resi": "H181W39TBA9OE9",
+            "Waktu Pembelian": "2024-12-09 18:20:30",
+            "Alamat": "Cimanggis",
+            "Jenis Pengiriman": "J&T Express",
+            "produk": "Jeans",
+            "jenis produk": "Celana",
+            "jumlah": 1,
+            "harga": 100000,
+            "total": 100000,
+            "Jenis Pembayaran": "COD",
+            "Status Pembayaran": "Belum Lunas",
+            "Status Pengiriman": "Produk sedang dalam perjalanan"
+         }
+      ]
+   }
+]

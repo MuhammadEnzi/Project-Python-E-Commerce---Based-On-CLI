@@ -1,0 +1,21 @@
+[
+   {
+      "pembeli": "eni",
+      "item": [
+         {
+            "produk": "Topi",
+            "jenis produk": "Snapback",
+            "jumlah": 100,
+            "harga": 25000000,
+            "total": 2500000000
+         },
+         {
+            "produk": "T-shirt",
+            "jenis produk": "Jersey",
+            "jumlah": 25,
+            "harga": 5750000,
+            "total": 143750000
+         }
+      ]
+   }
+]

@@ -1,0 +1,21 @@
+[
+   {
+      "pembeli": "eni",
+      "item": [
+         {
+            "Nomor Resi": "RQ81YPC7MRW80U",
+            "Waktu Pembelian": "2024-12-05 10:13:17",
+            "Alamat": "Cimanggis Depok",
+            "Jenis Pengiriman": "JNE Reguler",
+            "produk": "Sunscreen",
+            "jenis produk": "Facetology",
+            "jumlah": 2,
+            "harga": 108000,
+            "total": 216000,
+            "Jenis Pembayaran": "COD",
+            "Status Pembayaran": "Belum Lunas",
+            "Status Pengiriman": "Produk telah sampai di tujuan"
+         }
+      ]
+   }
+]

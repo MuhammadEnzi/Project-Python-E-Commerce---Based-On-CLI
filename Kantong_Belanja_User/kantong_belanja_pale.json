@@ -1,0 +1,14 @@
+[
+   {
+      "pembeli": "pale",
+      "item": [
+         {
+            "produk": "T-Shirt",
+            "jenis produk": "Tropic Trip",
+            "jumlah": 1,
+            "harga": 370000,
+            "total": 370000
+         }
+      ]
+   }
+]

@@ -1,0 +1,20 @@
+[
+   {
+      "pembeli": "ibal",
+      "item": [
+         {
+            "Nomor Resi": "8R36PEV5716SFU",
+            "Waktu Pembelian": "2024-12-04 19:11:40",
+            "Alamat": "cimanggis",
+            "Jenis Pengiriman": "J&T Express",
+            "produk": "T-shirt",
+            "jenis produk": "Jersey",
+            "jumlah": 11,
+            "harga": 2530000,
+            "total": 27830000,
+            "Jenis Pembayaran": "COD",
+            "Status_pembayaran": "Belum Lunas"
+         }
+      ]
+   }
+]
